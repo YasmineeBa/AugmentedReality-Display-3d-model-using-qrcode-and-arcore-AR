@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "114021087711",
+    "project_id": "augmentedreality-5ce33",
+    "storage_bucket": "augmentedreality-5ce33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114021087711:android:c47dcc70bb0bb019106c6a",
+        "android_client_info": {
+          "package_name": "sysmobile.usthb.realityaugmentedusthb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114021087711-on4stb344i51rsc6feb94vjacbvunomt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFpPUw_9kNqu0kaKp2v5Ts358ltBRvBUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114021087711-on4stb344i51rsc6feb94vjacbvunomt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
